@@ -57,6 +57,10 @@ Uses Spell or Item at Target Position :
 
 `SetSkin(unit,skinID)`
 
+## BuyItem
+
+`BuyItem(itemID)`
+
 ## CalculatePath
 
 `CalculatePath(unit,D3DXVECTOR3)`
